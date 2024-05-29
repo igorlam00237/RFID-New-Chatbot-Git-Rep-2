@@ -1,0 +1,9 @@
+﻿Text;Label
+Quels sont les hyper parametres utilisées pour le modèle SVM;Les hyper parametres utilisées pour le modèle SVM sont C, kernel, degree et gamma
+Quels sont les hyper parametres utilisées pour le modèle KNN;n_neighbors, weights, metric, leaf_size et  p
+Quels sont les hyper parametres utilisées pour le modèle Random Forest;n_estimators, max_depth, min_samples_split, min_samples_leaf, et bootstrap
+Quels sont les modèles disponibles;Machine learning et Analytique
+Quels sont les modèles de machine learning disponibles;KNN, SVM et Random forest
+Y a-t-il un historique ?;Oui, c’est accessible en haut à droite
+Quels sont les différents types d’utilisateurs ?;Administrateur, Expert et simple utilisateur
+Comment faire pour avoir les résultats des simulations en cours;Il faut cliquer sur le bouton générer un PDF sur l’écran

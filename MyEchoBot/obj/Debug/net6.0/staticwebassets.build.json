@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "oBeiHP5IvJ3haU5syvEnf29nPysLTDWEq7Fh9JbDVFA=",
+  "Source": "EchoBot",
+  "BasePath": "_content/EchoBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EchoBot/wwwroot",
+      "Source": "EchoBot",
+      "ContentRoot": "/Users/igorlaminsi/Documents/Projet RFID Rep 5/NewChatbot/MyEchoBot/wwwroot/",
+      "BasePath": "_content/EchoBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/igorlaminsi/Documents/Projet RFID Rep 5/NewChatbot/MyEchoBot/wwwroot/default.html",
+      "SourceId": "EchoBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/igorlaminsi/Documents/Projet RFID Rep 5/NewChatbot/MyEchoBot/wwwroot/",
+      "BasePath": "_content/EchoBot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/default.html"
+    }
+  ]
+}
